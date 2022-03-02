@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Crocin",
+    "Brand": "Cipla",
+    "Price": 2.25,
+    "Quantity": 10,
+    "Expiry": "25-12-2020",
+    "Notes": "Supplied By XYZ Distributors"
+  },
+  {
+    "Id": 2,
+    "Name": "Disprin",
+    "Brand": "Abbot",
+    "Price": 5.00,
+    "Quantity": 12,
+    "Expiry": "25-12-2021",
+    "Notes": "Supplied By XYZ Distributors"
+  },
+  {
+    "Id": 3,
+    "Name": "Norflox",
+    "Brand": "Cipla",
+    "Price": 6.55,
+    "Quantity": 20,
+    "Expiry": "20-10-2021",
+    "Notes": "Supplied By XYZ Distributors"
+  }
+]
